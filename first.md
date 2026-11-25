@@ -13,7 +13,7 @@ hello world,my name is Li Congjian,welcome here
 |                    |                                                     |
 | 查看当前有哪些分支 | git branch                                          |
 | 创建并切换名称     | git switch -c "分支名称"                            |
-|                    | git remote -v                                       |
-|                    |                                                     |
-|                    |                                                     |
+| 查看远程           | git remote -v                                       |
+| 提交到远程         | git pull                                            |
+| 从远程拉下来       | git push                                            |
 
